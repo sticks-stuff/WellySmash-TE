@@ -1,14 +1,7 @@
-display_name="WellySmash Ultimate TE"
-authors = "JoBen modified by sharlot"
+display_name="WellySmash SSS + Striking"
+authors = "sharlot, JoBen, HDR Team, Holmes02"
 description="""
-Created by JoBen
-
-Are you a tournament player that only plays on legal stages and is annoyed by how hard it is to navigate or see where the stages are? 
-This mod is just right for you!
-
-Ultimate TE is a Smash Ultimate UI mod that aims to be more suited for Competitive players! 
-
-Modified for WellySmash by sharlot 
+WellySmash Stage Select Screen with stage striking from HDR!
 """
-version="1.2"
+version="1.0"
 category="UI"
